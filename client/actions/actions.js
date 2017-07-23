@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const endpoints = {
-  upload: 'http://localhost:3000/api/extract-vat-numbers'
+  upload: '/api/extract-vat-numbers'
 }
 
 
